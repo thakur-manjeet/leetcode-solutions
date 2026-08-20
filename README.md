@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0238-product-of-array-except-self](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,4 +57,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 <!---LeetCode Topics End-->
