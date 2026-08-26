@@ -5,19 +5,21 @@
 #         self.next = next
 class Solution:
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
-        if not lists or len(lists) == 0:
+        if not lists and len(lists) == 0:
             return None
         return self.mergeKListHelper(lists,0,len(lists)-1)
 
     def mergeKListHelper(self,lists,start,end):
         if start == end:
             return lists[start]
-        if start + 1 == end:
+
+        if start+1== end:
             return self.merge2List(lists[start],lists[end])
 
-        mid=start +(end-start) //2
+        mid=start + (end-start) //2
+
         left=self.mergeKListHelper(lists,start,mid)
-        right=self.mergeKListHelper(lists,mid+1,end) 
+        right=self.mergeKListHelper(lists,mid+1,end)
 
         return self.merge2List(left,right)
 
@@ -31,7 +33,7 @@ class Solution:
                 l1=l1.next
             else:
                 curr.next=l2
-                l2=l2.next    
+                l2=l2.next
             curr=curr.next
 
         if l1:
@@ -39,4 +41,4 @@ class Solution:
         else:
             curr.next=l2
 
-        return dummy.next            
+        return dummy.next                                                  
