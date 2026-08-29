@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0143-reorder-list](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Simulation
@@ -128,4 +129,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
