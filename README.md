@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0682-baseball-game](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
