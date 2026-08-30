@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0150-evaluate-reverse-polish-notation](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0682-baseball-game](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Stack
@@ -96,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0143-reorder-list](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0682-baseball-game](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
