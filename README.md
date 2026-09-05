@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0392-is-subsequence](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0844-backspace-string-compare](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0392-is-subsequence](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0844-backspace-string-compare](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Bracket Sequences
@@ -172,4 +174,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0392-is-subsequence](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 <!---LeetCode Topics End-->
