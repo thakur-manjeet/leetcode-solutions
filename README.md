@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0566-reshape-the-matrix](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0682-baseball-game](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
+| [0853-car-fleet](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
 | [0901-online-stock-span](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Simulation
@@ -141,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0148-sort-list](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0853-car-fleet](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
 | [0901-online-stock-span](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
