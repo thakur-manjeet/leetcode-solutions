@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0084-largest-rectangle-in-histogram](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0143-reorder-list](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
@@ -180,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
@@ -197,4 +200,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
