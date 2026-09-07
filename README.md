@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0155-min-stack](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0901-online-stock-span](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -200,8 +201,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
