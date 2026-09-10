@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0168-excel-sheet-column-title](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Stack
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0168-excel-sheet-column-title](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0290-word-pattern](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0290-word-pattern/) | Easy |
 | [0392-is-subsequence](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0844-backspace-string-compare](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
