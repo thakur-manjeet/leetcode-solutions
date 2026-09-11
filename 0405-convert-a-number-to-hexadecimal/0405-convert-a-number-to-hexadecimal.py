@@ -5,10 +5,7 @@ class Solution:
             return "0"
             
         # Hexadecimal character mapping
-        hex_map = "0123456789abcdef"
-        
-        # Handle negative numbers using Two's Complement.
-        # Masking with 0xFFFFFFFF constrains the number to a 32-bit unsigned integer.
+        hex_map = "0123456789abcdef"   
         if num < 0:
             num &= 0xFFFFFFFF
             
