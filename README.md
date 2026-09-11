@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0290-word-pattern](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0290-word-pattern/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0389-find-the-difference](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0496-next-greater-element-i](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Two Pointers
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0148-sort-list](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0389-find-the-difference](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0853-car-fleet](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -168,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0290-word-pattern](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0290-word-pattern/) | Easy |
+| [0389-find-the-difference](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0844-backspace-string-compare](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -215,4 +218,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0933-number-of-recent-calls/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0389-find-the-difference](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 <!---LeetCode Topics End-->
