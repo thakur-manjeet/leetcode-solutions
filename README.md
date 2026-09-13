@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -124,12 +125,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-car-fleet](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
 | [0901-online-stock-span](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0566-reshape-the-matrix](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0682-baseball-game](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -220,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0933-number-of-recent-calls/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
