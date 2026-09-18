@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0622-design-circular-queue](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0622-design-circular-queue/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0622-design-circular-queue](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0622-design-circular-queue/) | Medium |
 | [0682-baseball-game](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
@@ -192,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0155-min-stack](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0622-design-circular-queue](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0622-design-circular-queue/) | Medium |
 | [0901-online-stock-span](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Greedy
@@ -228,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0622-design-circular-queue](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0622-design-circular-queue/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
