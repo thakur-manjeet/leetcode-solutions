@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0237-delete-node-in-a-linked-list](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0622-design-circular-queue](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0622-design-circular-queue/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
