@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0283-move-zeroes](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0283-move-zeroes](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0392-is-subsequence](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0844-backspace-string-compare](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
 ## Floyd's Cycle Finding Algorithm
