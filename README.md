@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0018-4sum](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -266,4 +268,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/thakur-manjeet/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
